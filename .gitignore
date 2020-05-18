@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# the audio and fonts
+Titillium-Black.otf
+Titillium-Thin.otf
+pause.wav
+IntroScreen.wav
+IntroScreen.mp3
