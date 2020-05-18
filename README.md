@@ -5,6 +5,7 @@ This will show the button pressed, plays audio (start button pauses and unpauses
 With d-pad you can move "the player"(box).
 
 #### Used fonts
+Add fonts (Titillium-Black.otf and Titillium-Thin.otf)
 [Google Fonts Titillium-Black and Thin](https://fonts.google.com/specimen/Titillium+Web)
 
 Also add audio files of your choosing:
